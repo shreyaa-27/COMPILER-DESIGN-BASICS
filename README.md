@@ -80,3 +80,6 @@ This C program demonstrates **lexical analysis** by reading a file, identifying 
 
 ### **Conclusion:**  
 This program provides a **simple yet effective** way to perform **lexical analysis** on a given file. It demonstrates **basic file handling, input parsing, and token classification**. Understanding this program is **crucial for building a compiler or interpreter**, making it a foundational topic in **compiler design** and **systems programming**.
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/eb2036e6-b7ca-44c4-905f-67bd00147e47" />
+
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/ef38dd79-f8c7-4983-9906-6c2786d888ee" />
